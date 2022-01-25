@@ -111,14 +111,26 @@
     {
       "content": "vue.js ",
       "date": "2022-01-25T15:47:03.938Z",
-      "important": true,
+      "important": false,
       "id": 19
     },
     {
       "content": "html css js",
       "date": "2022-01-25T15:47:21.097Z",
-      "important": false,
+      "important": true,
       "id": 20
+    },
+    {
+      "content": "python",
+      "date": "2022-01-25T16:01:02.895Z",
+      "important": true,
+      "id": 21
+    },
+    {
+      "content": "ai ml ds",
+      "date": "2022-01-25T16:01:45.795Z",
+      "important": true,
+      "id": 22
     }
   ]
 }
