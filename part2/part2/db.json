@@ -21,7 +21,7 @@
     {
       "content": "yoo",
       "date": "2022-01-24T16:32:44.711Z",
-      "important": false,
+      "important": true,
       "id": 4
     },
     {
@@ -39,7 +39,7 @@
     {
       "content": "fsopen",
       "date": "2022-01-24T16:41:16.547Z",
-      "important": false,
+      "important": true,
       "id": 7
     }
   ]
